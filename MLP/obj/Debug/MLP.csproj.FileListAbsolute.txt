@@ -1,0 +1,19 @@
+C:\Users\aliabdat\Desktop\MLP-2\MLP\obj\Debug\MLP.Form1.resources
+C:\Users\aliabdat\Desktop\MLP-2\MLP\obj\Debug\MLP.Form2.resources
+C:\Users\aliabdat\Desktop\MLP-2\MLP\obj\Debug\MLP.Properties.Resources.resources
+C:\Users\aliabdat\Desktop\MLP-2\MLP\obj\Debug\MLP.csproj.GenerateResource.Cache
+C:\Users\aliabdat\Desktop\MLP-2\MLP\bin\Debug\MLP.exe.config
+C:\Users\aliabdat\Desktop\MLP-2\MLP\bin\Debug\MLP.exe
+C:\Users\aliabdat\Desktop\MLP-2\MLP\bin\Debug\MLP.pdb
+C:\Users\aliabdat\Desktop\MLP-2\MLP\obj\Debug\MLP.exe
+C:\Users\aliabdat\Desktop\MLP-2\MLP\obj\Debug\MLP.pdb
+D:\FCIS\4th Year\1st Semester\Neural Networks\MLP-2\MLP\bin\Debug\MLP.exe.config
+D:\FCIS\4th Year\1st Semester\Neural Networks\MLP-2\MLP\bin\Debug\MLP.exe
+D:\FCIS\4th Year\1st Semester\Neural Networks\MLP-2\MLP\bin\Debug\MLP.pdb
+D:\FCIS\4th Year\1st Semester\Neural Networks\MLP-2\MLP\obj\Debug\MLP.Form1.resources
+D:\FCIS\4th Year\1st Semester\Neural Networks\MLP-2\MLP\obj\Debug\MLP.Form2.resources
+D:\FCIS\4th Year\1st Semester\Neural Networks\MLP-2\MLP\obj\Debug\MLP.Properties.Resources.resources
+D:\FCIS\4th Year\1st Semester\Neural Networks\MLP-2\MLP\obj\Debug\MLP.csproj.GenerateResource.Cache
+D:\FCIS\4th Year\1st Semester\Neural Networks\MLP-2\MLP\obj\Debug\MLP.exe
+D:\FCIS\4th Year\1st Semester\Neural Networks\MLP-2\MLP\obj\Debug\MLP.pdb
+D:\FCIS\4th Year\1st Semester\Neural Networks\MLP-2\MLP\obj\Debug\MLP.csprojResolveAssemblyReference.cache

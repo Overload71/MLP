@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MLP.Form1" Collapsed="true">
+    <Position X="23.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAACBCAQABAACACAAAACAAAAAAgAEUQIDAQACAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLP.InputReader" Collapsed="true">
+    <Position X="25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>InputReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLP.MLPMain" Collapsed="true">
+    <Position X="27" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAABAAAABAACAAAAIAAAAAAAAAQAAAAEAAAAQAEA=</HashCode>
+      <FileName>MLPMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLP.Pre_Processing" Collapsed="true">
+    <Position X="23.25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pre-Processing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLP.Program" Collapsed="true">
+    <Position X="25" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLP.Properties.Resources" Collapsed="true">
+    <Position X="26.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLP.Properties.Settings" Collapsed="true">
+    <Position X="23.25" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLP.Form2" Collapsed="true">
+    <Position X="23.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAABAAAACAAAASQAgIAAAAEEAAAAAgAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLP.Neuron" Collapsed="true">
+    <Position X="25.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAAAAAAAAAAAAQBAAAAAAAAAAAAA=</HashCode>
+      <FileName>Neuron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
